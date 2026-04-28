@@ -20,9 +20,8 @@ Running the script will:
    - **Stats panel** — a summary box
 ---
 
-## Getting Started
 
-# Requirements
+## Requirements
 
 You'll need Python 3 and three libraries.
 
@@ -32,7 +31,7 @@ pip install matplotlib numpy
 
 `collections` and `random` come built into Python, so those are free. You're welcome.
 
-# Running It
+## Running It
 
 ```bash
 python multi_simulation.py
@@ -40,7 +39,7 @@ python multi_simulation.py
 
 ---
 
-# Configuration
+## Configuration
 
 At the top of `multi_simulation.py` you'll find three variables you can tweak:
 
