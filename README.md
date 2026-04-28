@@ -29,15 +29,6 @@ You'll need Python 3 and three libraries.
 pip install matplotlib numpy
 ```
 
-`collections` and `random` come built into Python, so those are free. You're welcome.
-
-## Running It
-
-```bash
-python multi_simulation.py
-```
-
----
 
 ## Configuration
 
