@@ -2,7 +2,7 @@
 
 *"No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of government except all those other forms that have been tried from time to time". -Winston Churchill*
 
-A Python simulation that runs hundreds of randomized elections using four different voting systems, then ruthlessly compares them to see how often they actually agree on a winner. Spoiler: not as often as you'd hope.
+A Python simulation that runs hundreds of randomized elections using four different voting systems, then ruthlessly compares them to see how often they actually agree on a winner.
 
 ## What Does It Actually Do?
 
