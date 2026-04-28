@@ -55,12 +55,14 @@ num_simulations = 500
 
 ```
 📦 your-repo/
- ┣  BeakBallot.py    ← The whole thing.
- ┣  BeakBallot.png   ← Generated after running (not included in repo)
+ ┣  BeakBallotCloud.py    ← The whole thing. (To run on Codespace).
+ ┣  BeakBallot.png   ← Generated after running Cloud (not included in repo).
+ ┣  BeakBallotLocal.py   ← Download and run in your own machine.
+ ┣  MIT Licence
  ┗  README.md              ← You are here
 
 ##  License
-Do whatever you want with this. It's got an MIT licence.
+Do whatever you want with this. You'll probably do it better.
 ---
 ## Contributing
 Found a bug? Open an issue. Have a better voting system to add? Open a PR. Thanks.
